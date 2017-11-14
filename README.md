@@ -1,7 +1,6 @@
-# README
+# VAIOTI open sourec IOT API 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ It's a open source library for  API creation of IOT 
 
 Things you may want to cover:
 
